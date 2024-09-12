@@ -1,0 +1,4 @@
+apiVersion: v2
+name: my-lambda-chart
+description: A Helm chart for deploying my Lambda function with ArgoCD
+version: 0.1.0
